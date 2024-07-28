@@ -1,2 +1,2 @@
-export const API_URL = 'http://localhost:8080/'
+export const API_URL = 'ecs-applb-1689158535.us-east-1.elb.amazonaws.com'
 export default API_URL
